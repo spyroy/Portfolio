@@ -6,7 +6,160 @@
     <description>Recent content in Projects on Main page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://spyroy.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Oct 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://spyroy.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maleo-Sys</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-16/</link>
+      <pubDate>Sun, 19 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-16/</guid>
+      <description>1.	INTRODUCTION 1.1 Purpose This software design document describes the architecture and system design of maleo sys application, it will include overview of the system, data and design of the application.
+1.2 Scope The maleo sys application is meant mainly for parents for preterm infants which have a very tight schedule, the application will make their life easier with some simple methods and automatic functions, such as corrected age, graphs, prescribing vaccines, and successful stories from other parents.</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-15/</link>
+      <pubDate>Thu, 19 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-15/</guid>
+      <description>In this course i solved the assigenments of stanford course in computer vision (cs231n) and learned the following methods:
+ Gradient descent Losses Backpropogation Pytorch LeNet Dropout Res Block AlexNet CNN R-Cnn GAN CycleGAN and more  It was realy chalenging course but also realy prodactive.
+Full projects</description>
+    </item>
+    
+    <item>
+      <title>Traffic Lights classification</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-13/</link>
+      <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-13/</guid>
+      <description>Introduction In this project, we wanted to classify two classes – pedestrian traffic lights and vehicle traffic lights. To so we used the data from Kaggle: https://www.kaggle.com/hj23hw/pedestrian-augmentedtraffic-light-dataset. The project goal was to classify pedestrian traffic lights and vehicle traffic lights, some uses we thought can be useful from this project is for automation for cars so it will know the difference between the two types of traffic lights, it is not a complete model but can be used as features extractor for a more complicated model.</description>
+    </item>
+    
+    <item>
+      <title>Security Protocols</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-12/</link>
+      <pubDate>Wed, 19 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-12/</guid>
+      <description>In this project I implemented some network attacks such as:
+ RST flood UDP flood     Full project</description>
+    </item>
+    
+    <item>
+      <title>Powers of paths in tournaments</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-14/</link>
+      <pubDate>Mon, 19 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-14/</guid>
+      <description>One of the main themes in extremal graph theory is the study of embedding long paths and cycles in graphs. Some of the classical examples include the Erd˝os–Gallai theorem [3] that every n-vertex graph with average degree d contains a path of length d, and Dirac’s theorem [2] that every graph with minimum degree n/2 contains a Hamilton cycle. A famous generalization of this, conjectured by P´osa and Seymour, and proved for large n by Koml´os, S´ark¨ozy and Szemer´edi [5], asserts that if the minimum degree is at least kn/(k + 1), then the graph contains the k-th power of a Hamilton cycle.</description>
+    </item>
+    
+    <item>
+      <title>Programming languages</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-11/</link>
+      <pubDate>Mon, 19 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-11/</guid>
+      <description>During my Programming languages course i have learned the racket language and the sub-language pl, these are the projects i wrote using this language:
+Full projects</description>
+    </item>
+    
+    <item>
+      <title>Near-Buy</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-10/</link>
+      <pubDate>Thu, 14 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-10/</guid>
+      <description>During my program engineering course i built an android application using android studio in java, the application represents a groecery store and has 2 types of users:
+ Seller - can upload his store to the application and products to the store. Customer - can have shopping list.  Full project</description>
+    </item>
+    
+    <item>
+      <title>Bible Classification</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-9/</link>
+      <pubDate>Mon, 04 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-9/</guid>
+      <description>In this project i used the deep learning (Tensorflow/Keras) to classify to classify a sentance into a book in the bible.
+for example:
+&amp;ldquo;In the beginning God created the heaven and the earth&amp;rdquo; the answer should be:
+&amp;ldquo;Genesis&amp;rdquo;
+at start we tried to solve simplier problem, instead classifying the sentance into book, we tried to classify it to old/new testament.
+to do so we used linear regression which we think is the best option for this problem.</description>
+    </item>
+    
+    <item>
+      <title>Advenced Programming</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-8/</link>
+      <pubDate>Thu, 22 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-8/</guid>
+      <description>During my Advanced Programming course i did some projects to learn the some advenced techniques in Cpp.
+First project
+Second project
+Third project
+Fourth project</description>
+    </item>
+    
+    <item>
+      <title>Data Bases</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-7/</link>
+      <pubDate>Wed, 21 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-7/</guid>
+      <description>During my Data Bases course i did some projects to learn the sql and no-sql languages and some principles in DB such as:
+ Spark neo4j Elastic Search MongoDB RDF Redis Cassandra Linear Regression Logistic Regression  First project
+Second project
+Third project</description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-6/</link>
+      <pubDate>Tue, 20 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-6/</guid>
+      <description>During my architecture course i did some projects to learn the hdl language and the basics of the computer architecture.
+First project
+Second project
+Third project
+Fourth project
+Fifth project</description>
+    </item>
+    
+    <item>
+      <title>Ip tree</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Mon, 19 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-4/</guid>
+      <description>During my network communication i built a project that represents an Ip tree for a prefix table, you an find, add or remove an ip from the table.
+I also implemented processes queue with edf algorithm and bd algorithm.
+Full project</description>
+    </item>
+    
+    <item>
+      <title>OS project</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-5/</link>
+      <pubDate>Sun, 18 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-5/</guid>
+      <description>During my Operating Systems course i built a project to learn the basics of the OS
+Full project</description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://spyroy.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Sat, 04 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://spyroy.github.io/Portfolio/post/project-3/</guid>
+      <description>In my degree i have learned to implement many algorithms such as:
+ LCS LIS Min Max and many more  Full project</description>
+    </item>
+    
     <item>
       <title>War game</title>
       <link>https://spyroy.github.io/Portfolio/post/project-2/</link>
